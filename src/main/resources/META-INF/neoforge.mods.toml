@@ -4,10 +4,10 @@ license="MIT License"
 
 [[mods]]
 modId="stevespizzeria"
-version="1.0.0"
+version="1.0.1"
 displayName="Steve's Pizzeria"
 displayURL="https://armadillomike.dev"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
+credits="Made with neoforge"
 authors="Ardne"
 description="A mod that adds pizza"
 

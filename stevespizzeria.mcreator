@@ -570,7 +570,7 @@
   "workspaceSettings": {
     "modid": "stevespizzeria",
     "modName": "Steve\u0027s Pizzeria",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A mod that adds pizza",
     "author": "Ardne",
     "websiteURL": "https://armadillomike.dev",
@@ -581,6 +581,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "neoforge-1.21.1",
+    "credits": "Made with neoforge",
     "modElementsPackage": "dev.armadillomike.stevespizzeria"
   },
   "mcreatorVersion": 202400452410
