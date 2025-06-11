@@ -9,7 +9,11 @@
     "states": [],
     "name": "Hawaiian Pizza",
     "rarity": "COMMON",
-    "creativeTabs": [],
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:Pizzas"
+      }
+    ],
     "stackSize": 64,
     "enchantability": 0,
     "useDuration": 32,

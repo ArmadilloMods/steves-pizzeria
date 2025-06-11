@@ -21,4 +21,12 @@ public class StevespizzeriaModTabs {
 				tabData.accept(StevespizzeriaModItems.MOZZERELLA.get());
 				tabData.accept(StevespizzeriaModItems.TOMATO_SEEDS.get());
 			}).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> PIZZAS = REGISTRY.register("pizzas",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.stevespizzeria.pizzas")).icon(() -> new ItemStack(StevespizzeriaModItems.SUPREME_PIZZA.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(StevespizzeriaModItems.MARGHERITA_PIZZA.get());
+				tabData.accept(StevespizzeriaModItems.SUPREME_PIZZA.get());
+				tabData.accept(StevespizzeriaModItems.MEAT_LOVERS_PIZZA.get());
+				tabData.accept(StevespizzeriaModItems.HAWAIIAN.get());
+				tabData.accept(StevespizzeriaModItems.VEGGIE_PIZZA.get());
+			}).withTabsBefore(PIZZA_INGREDIENTS_TAB.getId()).build());
 }
