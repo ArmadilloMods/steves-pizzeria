@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stevespizzeria:tomato_item"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "stevespizzeria:pizza_base_sauce"
+    },
+    {
+      "item": "stevespizzeria:mozzerella"
+    }
+  ],
+  "result": {
+    "id": "stevespizzeria:margherita_pizza",
+    "count": 1
+  }
+}

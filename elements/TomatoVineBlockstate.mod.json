@@ -1,0 +1,61 @@
+{
+  "_fv": 73,
+  "_type": "blockstates",
+  "definition": {
+    "block": "TomatoVine",
+    "blockstateList": [
+      {
+        "texture": "tomato_vines_med",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 1,
+        "customModelName": "Cross model",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "tomato_vines",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 1,
+        "customModelName": "Cross model",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "tomato_vines_plant",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 1,
+        "customModelName": "Cross model",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "tomato_vines_grown",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 1,
+        "customModelName": "Cross model",
+        "luminance": 0,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

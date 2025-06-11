@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "stevespizzeria:blocks/tomato_bush",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "stevespizzeria:tomato_bush"
+        }
+      ]
+    }
+  ]
+}

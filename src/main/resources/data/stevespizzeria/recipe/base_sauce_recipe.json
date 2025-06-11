@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "stevespizzeria:pizza_base"
+    },
+    {
+      "item": "stevespizzeria:tomato_sauce_bottle"
+    }
+  ],
+  "result": {
+    "id": "stevespizzeria:pizza_base_sauce",
+    "count": 1
+  }
+}

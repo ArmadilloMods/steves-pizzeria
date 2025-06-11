@@ -1,14 +1,15 @@
 modLoader="javafml"
 loaderVersion="[4,)"
-license="Not specified"
+license="MIT License"
 
 [[mods]]
 modId="stevespizzeria"
 version="1.0.0"
 displayName="Steve's Pizzeria"
-displayURL="https://mcreator.net"
+displayURL="https://armadillomike.dev"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
-authors="Ardne, MCreator"
+authors="Ardne"
+description="A mod that adds pizza"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration

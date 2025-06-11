@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Items.COOKED_PORKCHOP"
+      },
+      {
+        "value": "Items.GLOW_BERRIES"
+      },
+      {
+        "value": "CUSTOM:Pepperoni"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": "CUSTOM:PizzaBaseSauce"
+      },
+      {
+        "value": "Blocks.BROWN_MUSHROOM"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SupremePizza"
+    },
+    "name": "supreme_pizza_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,4 +1,4 @@
-package net.mcreator.stevespizzeria;
+package dev.armadillomike.stevespizzeria;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
@@ -25,6 +25,11 @@ import java.util.HashMap;
 import java.util.Collection;
 import java.util.ArrayList;
 
+import dev.armadillomike.stevespizzeria.init.StevespizzeriaModTabs;
+import dev.armadillomike.stevespizzeria.init.StevespizzeriaModItems;
+import dev.armadillomike.stevespizzeria.init.StevespizzeriaModBlocks;
+import dev.armadillomike.stevespizzeria.init.StevespizzeriaModBlockEntities;
+
 @Mod("stevespizzeria")
 public class StevespizzeriaMod {
 	public static final Logger LOGGER = LogManager.getLogger(StevespizzeriaMod.class);
@@ -35,6 +40,12 @@ public class StevespizzeriaMod {
 		// End of user code block mod constructor
 		NeoForge.EVENT_BUS.register(this);
 		modEventBus.addListener(this::registerNetworking);
+
+		StevespizzeriaModBlocks.REGISTRY.register(modEventBus);
+		StevespizzeriaModBlockEntities.REGISTRY.register(modEventBus);
+		StevespizzeriaModItems.REGISTRY.register(modEventBus);
+
+		StevespizzeriaModTabs.REGISTRY.register(modEventBus);
 
 		// Start of user code block mod init
 		// End of user code block mod init

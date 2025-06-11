@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "id": "stevespizzeria:pizza_base",
+    "count": 1
+  }
+}

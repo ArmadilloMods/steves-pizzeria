@@ -1,0 +1,48 @@
+{
+  "_fv": 73,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BROWN_MUSHROOM"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PizzaBaseSauce"
+      },
+      {
+        "value": "Items.DRIED_KELP"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.GLOW_BERRIES"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:VeggiePizza"
+    },
+    "name": "veggie_recipe",
+    "namespace": "mod"
+  }
+}

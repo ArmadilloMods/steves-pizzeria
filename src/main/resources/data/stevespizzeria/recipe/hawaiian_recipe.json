@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "stevespizzeria:pizza_base_sauce"
+    },
+    {
+      "item": "minecraft:melon_slice"
+    }
+  ],
+  "result": {
+    "id": "stevespizzeria:hawaiian",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "stevespizzeria:block/tomato_vines_grown",
+    "particle": "stevespizzeria:block/tomato_vine_start"
+  },
+  "render_type": "cutout_mipped"
+}
