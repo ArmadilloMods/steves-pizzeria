@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "stevespizzeria:pepperoni"
+    },
+    {
+      "item": "minecraft:cooked_mutton"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "stevespizzeria:pizza_base_sauce"
+    }
+  ],
+  "result": {
+    "id": "stevespizzeria:meat_lovers_pizza",
+    "count": 1
+  }
+}

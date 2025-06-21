@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "stevespizzeria:block/tomato_vine"
+    },
+    "blockstate=1": {
+      "model": "stevespizzeria:block/tomato_vine_blockstate_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "stevespizzeria:block/tomato_vine_blockstate_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "stevespizzeria:block/tomato_vine_blockstate_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "stevespizzeria:block/tomato_vine_blockstate_blockstate_3"
+    }
+  }
+}
